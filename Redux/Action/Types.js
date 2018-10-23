@@ -1,0 +1,12 @@
+//--------------ACTION---------------//
+
+ export const REQUEST_API_FAIL = "REQUEST_API_FAIL";
+ export const REQUEST_API_SUCCESS = "REQUEST_API_SUCCESS";
+ export const REQUEST_API_INVALID_KEY = "REQUEST_API_INVALID_KEY";
+ export const REQUEST_API_INVALID_INPUT = "REQUEST_API_INVALID_INPUT";
+
+//--------------ACTION CATEGORY---------------//
+
+export const CATEGORY_ACTION = "CATEGORY_ACTION";
+export const CATEGORY_SUCCESS = "CATEGORY_SUCCESS";
+
